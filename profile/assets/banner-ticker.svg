@@ -1,0 +1,11 @@
+<svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ticker-title ticker-desc">
+  <title id="ticker-title">Campaign Innovation Ticker</title>
+  <desc id="ticker-desc">Scrolling banner highlighting focus areas like campaign intelligence, voter engagement, and scalable solutions.</desc>
+  <line x1="20" y1="12" x2="1180" y2="12" stroke="#BB0000" stroke-width="3" stroke-linecap="round" />
+  <line x1="20" y1="48" x2="1180" y2="48" stroke="#BB0000" stroke-width="3" stroke-linecap="round" />
+  <text x="1200" y="38" font-family="'Press Start 2P',monospace" font-size="14" fill="#BB0000">
+    🚀 Campaign Intelligence • 📊 Voter Engagement • 🗳️ Election Data • 🤖 AI Optimization • 🏛️ Civic Infrastructure • 📱 Real-time Engagement • ✅ Compliance &amp; Validation • 📈 Scalable Solutions • 🚀 Campaign Intelligence • 📊 Voter Engagement • 🗳️ Election Data • 🤖 AI Optimization • 🏛️ Civic Infrastructure • 📱 Real-time Engagement • ✅ Compliance &amp; Validation • 📈 Scalable Solutions •
+    <animate attributeName="x" values="1200;-1600" dur="20s" repeatCount="indefinite" />
+  </text>
+</svg>
+

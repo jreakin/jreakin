@@ -1,0 +1,7 @@
+<svg width="320" height="40" viewBox="0 0 320 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech Stack section heading">
+  <text x="0" y="28" font-family="'Courier New', monospace" font-size="20" font-weight="700" letter-spacing="1" fill="#BB0000">
+    TECH STACK
+    <animate attributeName="fill" values="#BB0000;#4F4F4F;#BB0000" dur="4s" repeatCount="indefinite" />
+  </text>
+</svg>
+

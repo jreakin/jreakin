@@ -1,0 +1,7 @@
+<svg width="360" height="40" viewBox="0 0 360 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="What I Build section heading">
+  <text x="0" y="28" font-family="'Courier New', monospace" font-size="20" font-weight="700" letter-spacing="1" fill="#FF3C00">
+    WHAT I BUILD
+    <animate attributeName="fill" values="#FF3C00;#311C1C;#FF3C00" dur="4s" repeatCount="indefinite" />
+  </text>
+</svg>
+

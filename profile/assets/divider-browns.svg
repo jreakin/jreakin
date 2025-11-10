@@ -1,0 +1,27 @@
+<svg width="100%" height="40" viewBox="0 0 800 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="brownsBand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF3C00">
+        <animate attributeName="stop-color" values="#FF3C00;#311C1C;#FF3C00" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#311C1C">
+        <animate attributeName="stop-color" values="#311C1C;#FF3C00;#311C1C" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="18" width="800" height="4" fill="url(#brownsBand)">
+    <animate attributeName="width" values="0;800;0" dur="5s" repeatCount="indefinite" />
+  </rect>
+  <g fill="#FF3C00">
+    <circle cx="200" cy="20" r="0">
+      <animate attributeName="r" values="0;6;0" dur="4s" begin="0s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="400" cy="20" r="0">
+      <animate attributeName="r" values="0;6;0" dur="4s" begin="0.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="600" cy="20" r="0">
+      <animate attributeName="r" values="0;6;0" dur="4s" begin="1s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
+
