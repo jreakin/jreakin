@@ -154,9 +154,14 @@ Political Tech Builder · Full-Stack Developer · Ohio State Buckeyes Fan · Cle
 
 <div style="font-family:'Courier New',monospace;line-height:1.7;">
   <ul style="list-style:none;padding-left:0;">
-    <li>🏟️ Scarlet and gray since birth; still believe this is the Browns’ year.</li>
-    <li>🎧 Curate campaign ops playlists that make data validation slightly more fun.</li>
-    <li>📚 Forever iterating on playbooks for field teams, compliance leads, and analysts.</li>
+     <li>🏟️ Scarlet and gray since birth—Cleveland sports optimism is a feature, not a bug.</li>
+     <li>🎧 Curate campaign ops playlists (high-energy, retro-tech vibes) to keep QA fun.</li>
+     <li>🎨 Obsessed with control-room aesthetics, stark lighting, and Ohio State palettes across dashboards.</li>
+     <li>🧭 Serial reorganizer of repos, pins, and layouts—clarity beats clutter every time.</li>
+    <li>🛡️ Reliability autopsist: outages, failovers, and multi-region playbooks are dinner-table conversation.</li>
+    <li>🔒 Security hawk for campaigns—phishing drills, 1Password evangelism, and OAuth-first everything.</li>
+    <li>🤖 Friendly AI skeptic: integrates copilots only with guardrails, sanity checks, and human review.</li>
+    <li>🎬 Award-winning political video producer who still keeps Final Cut and motion graphics shortcuts muscle-memorized.</li>
   </ul>
 </div>
 
