@@ -11,7 +11,7 @@
 Political Tech Builder · Full-Stack Developer · Ohio State Buckeyes Fan · Cleveland Guardians Believer · Cleveland Browns Believer
 </p>
 
-<p align="center">
+<p>
   <picture>
     <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-about.svg" type="image/svg+xml">
     <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-about.png" alt="About Me heading" width="320" />
@@ -26,42 +26,10 @@ Scarlet and gray since birth. Cleveland sports eternal optimist. Tech, code, and
 
 </div>
 
-<p align="center">
+<p>
   <picture>
     <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-scarlet.svg" type="image/svg+xml">
     <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-scarlet.png" alt="Scarlet animated divider" width="100%" />
-  </picture>
-</p>
-
-<p align="center" style="font-family:'Courier New',monospace;font-size:12px;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-<p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-what-i-build.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-what-i-build.png" alt="What I Build heading" width="360" />
-  </picture>
-</p>
-
-<div style="font-family:'Courier New',monospace;">
-
-- **Campaign Intelligence Platforms**: Cloud-native systems that deliver real-time voter insights, outreach recommendations, and compliance tracking across campaigns and elections
-- **Data Pipelines & Validation Engines**: Automated ingestion, normalization, and QA tooling that keeps state voter files and campaign CRM data accurate, auditable, and actionable
-- **Engagement & Field Tooling**: Modern phone banking, texting, and volunteer coordination solutions that scale to national operations while staying intuitive for field teams
-- **Civic Tech Product Foundations**: Modular architectures, design systems, and operations playbooks that accelerate delivery for political technology startups and partners
-
-</div>
-
-<p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-browns.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-browns.png" alt="Cleveland Browns inspired divider" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/network-graph.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/network-graph.png" alt="Political technology network graph" width="100%" />
   </picture>
 </p>
 
@@ -69,7 +37,7 @@ Scarlet and gray since birth. Cleveland sports eternal optimist. Tech, code, and
 Campaign Tech • Data Systems • Voter Engagement • Validation • AI &amp; ML • Civic Infrastructure
 </p>
 
-<p align="center">
+<p>
   <picture>
     <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-guardians.svg" type="image/svg+xml">
     <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-guardians.png" alt="Cleveland Guardians inspired divider" width="100%" />
@@ -85,7 +53,7 @@ Campaign Tech • Data Systems • Voter Engagement • Validation • AI &amp; 
 
 <p align="center" style="font-family:'Courier New',monospace;font-size:13px;">🚀 Campaign Intelligence • 📊 Voter Engagement • 🗳️ Election Data • 🤖 AI Optimization • 🏛️ Civic Infrastructure • 📱 Real-time Engagement • ✅ Compliance &amp; Validation • 📈 Scalable Solutions</p>
 
-<p align="center">
+<p>
   <picture>
     <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-tech-stack.svg" type="image/svg+xml">
     <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-tech-stack.png" alt="Tech Stack heading" width="320" />
@@ -94,14 +62,12 @@ Campaign Tech • Data Systems • Voter Engagement • Validation • AI &amp; 
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,react,postgres,supabase,vercel,nextjs,fastapi,swift,sklearn,selenium,sentry,tensorflow,wordpress,cloudflare,django,docker,git,github,githubactions,graphql,linux,markdown,pycharm,raspberrypi,redis,rust,vscode,workers)](https://github.com/jreakin)
 
-<p align="center">
+<p>
   <picture>
     <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-scarlet-stack.svg" type="image/svg+xml">
     <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-scarlet-stack.png" alt="Animated scarlet divider" width="100%" />
   </picture>
 </p>
-
-<p align="center" style="font-family:'Courier New',monospace;font-size:12px;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
   <picture>
@@ -118,7 +84,7 @@ Campaign Tech • Data Systems • Voter Engagement • Validation • AI &amp; 
 
 </div>
 
-<p align="center">
+<p>
   <picture>
     <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-guardians-ops.svg" type="image/svg+xml">
     <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-guardians-ops.png" alt="Guardians inspired divider" width="100%" />
