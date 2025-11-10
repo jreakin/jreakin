@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Cleveland Browns Brownie the Elf</title>
+  <desc id="desc">Simplified illustration of Brownie the Elf mascot in team colors.</desc>
+  <defs>
+    <style>
+      .skin { fill: #f3c9a2; }
+      .hair { fill: #3b210b; }
+      .shirt { fill: #ff3c00; }
+      .pants { fill: #42210b; }
+      .shoe { fill: #1c130d; }
+      .outline { fill: none; stroke: #1c130d; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+  <g transform="translate(0,12)">
+    <ellipse class="skin" cx="256" cy="132" rx="72" ry="64"/>
+    <path class="hair" d="M192 124c12-52 116-60 128 0-24-14-44-18-64-18s-40 4-64 18z"/>
+    <path class="shirt" d="M170 222l86-38 86 38-18 120h-136z"/>
+    <path class="pants" d="M188 322h136l-18 104h-56l-12-60-12 60h-56z"/>
+    <path class="shoe" d="M202 426h52v36h-76zM312 426h52l24 36h-76z"/>
+    <path class="outline" d="M184 210l72-34 72 34-16 112h-112z"/>
+    <path class="outline" d="M180 320h152l-20 112h-56l-12-60-12 60h-56z"/>
+    <path class="outline" d="M202 426h52v36h-76z"/>
+    <path class="outline" d="M312 426h52l24 36h-76z"/>
+    <path class="outline" d="M320 238l-12-36-52-20-52 20-12 36"/>
+    <circle cx="230" cy="132" r="8" fill="#1c130d"/>
+    <circle cx="282" cy="132" r="8" fill="#1c130d"/>
+    <path class="outline" d="M236 168c12 12 28 12 40 0"/>
+    <path class="outline" d="M192 124c12-52 116-60 128 0-24-14-44-18-64-18s-40 4-64 18z"/>
+  </g>
+</svg>
+

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ohio State Block O</title>
+  <desc id="desc">Stylized Block O logo in scarlet with gray outline.</desc>
+  <defs>
+    <style>
+      .outer {
+        fill: #bb0000;
+      }
+      .inner {
+        fill: #ffffff;
+      }
+      .outline {
+        fill: #666666;
+      }
+    </style>
+  </defs>
+  <rect class="outline" x="36" y="36" width="440" height="440" rx="40" ry="40"/>
+  <rect class="outer" x="76" y="76" width="360" height="360" rx="36" ry="36"/>
+  <rect class="inner" x="156" y="156" width="200" height="200" rx="24" ry="24"/>
+</svg>
+
