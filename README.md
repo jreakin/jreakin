@@ -18,12 +18,14 @@ Political Tech Builder · Full-Stack Developer · Ohio State Buckeyes Fan · Cle
   </picture>
 </p>
 
-<div style="font-family:'Courier New',monospace;">
-
-I build political technology infrastructure that powers voter engagement, campaign outreach, and civic tech in the U.S. Specializing in scalable data systems, real-time engagement tools, and automation for modern campaigns.
-
-Scarlet and gray since birth. Cleveland sports eternal optimist. Tech, code, and building the next big things in election and political tech.
-
+<div style="font-family:'Courier New',monospace;line-height:1.7;">
+  <p><strong>Political Tech Builder</strong> focused on scalable civic infrastructure, campaign automation, and compliance-first engagement.</p>
+  <ul style="list-style:none;padding-left:0;">
+    <li>✅ 500+ production deployments with MTTR under five minutes</li>
+    <li>📈 Documented +8.6% turnout improvement across multi-cycle programs</li>
+    <li>🛰️ Multi-state coverage spanning 22 jurisdictions with vendor-agnostic ingestion</li>
+  </ul>
+  <p><strong>Currently tuning:</strong> AI-assisted research pipelines, real-time election safeguards, and leadership-ready analytics.</p>
 </div>
 
 <p>
@@ -33,41 +35,29 @@ Scarlet and gray since birth. Cleveland sports eternal optimist. Tech, code, and
   </picture>
 </p>
 
-<p align="center" style="font-family:'Courier New',monospace;font-size:12px;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 <p>
   <picture>
-    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-what-i-build.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-what-i-build.png" alt="What I Build heading" width="360" />
+    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-currently-building.svg" type="image/svg+xml">
+    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-currently-building.png" alt="Currently Building heading" width="360" />
   </picture>
 </p>
 
-<div style="font-family:'Courier New',monospace;">
-
-- **Campaign Intelligence Platforms**: Cloud-native systems that deliver real-time voter insights, outreach recommendations, and compliance tracking across campaigns and elections
-- **Data Pipelines & Validation Engines**: Automated ingestion, normalization, and QA tooling that keeps state voter files and campaign CRM data accurate, auditable, and actionable
-- **Engagement & Field Tooling**: Modern phone banking, texting, and volunteer coordination solutions that scale to national operations while staying intuitive for field teams
-- **Civic Tech Product Foundations**: Modular architectures, design systems, and operations playbooks that accelerate delivery for political technology startups and partners
-
-</div>
-
-<p>
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-browns.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/divider-browns.png" alt="Cleveland Browns inspired divider" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/network-graph.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/network-graph.png" alt="Political technology network graph" width="100%" />
-  </picture>
-</p>
-
-<p align="center" style="font-family:'Courier New',monospace;font-size:13px;">
-Campaign Tech • Data Systems • Voter Engagement • Validation • AI &amp; ML • Civic Infrastructure
-</p>
+<table style="width:100%;font-family:'Courier New',monospace;border-collapse:separate;border-spacing:12px 8px;">
+  <tr>
+    <td style="background:#11141a;border:1px solid #BB0000;padding:16px;vertical-align:top;">
+      <strong>Election Safeguards</strong><br />
+      <span style="font-size:13px;">Standards-driven APIs, audit trails, and real-time gating to keep certification transparent.</span>
+    </td>
+    <td style="background:#11141a;border:1px solid #00385D;padding:16px;vertical-align:top;">
+      <strong>AI Campaign Copilots</strong><br />
+      <span style="font-size:13px;">Decision-support orchestration that blends polling, turnout, and field intelligence.</span>
+    </td>
+    <td style="background:#11141a;border:1px solid #FF3C00;padding:16px;vertical-align:top;">
+      <strong>Civic Dashboards</strong><br />
+      <span style="font-size:13px;">Multi-tenant analytics experiences for leadership readiness and rapid response.</span>
+    </td>
+  </tr>
+</table>
 
 <p>
   <picture>
@@ -76,15 +66,6 @@ Campaign Tech • Data Systems • Voter Engagement • Validation • AI &amp; 
   </picture>
 </p>
 
-<p align="center" style="margin:32px 0;">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/banner-ticker.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/banner-ticker.png" alt="Campaign innovation ticker" width="100%" />
-  </picture>
-</p>
-
-<p align="center" style="font-family:'Courier New',monospace;font-size:13px;">🚀 Campaign Intelligence • 📊 Voter Engagement • 🗳️ Election Data • 🤖 AI Optimization • 🏛️ Civic Infrastructure • 📱 Real-time Engagement • ✅ Compliance &amp; Validation • 📈 Scalable Solutions</p>
-
 <p>
   <picture>
     <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-tech-stack.svg" type="image/svg+xml">
@@ -92,7 +73,33 @@ Campaign Tech • Data Systems • Voter Engagement • Validation • AI &amp; 
   </picture>
 </p>
 
+<div style="font-family:'Courier New',monospace;line-height:1.7;">
+  <p><strong>Data Infrastructure:</strong> Python, PostgreSQL, Supabase, Redis, Kafka-lite pipelines, dbt-inspired modeling</p>
+  <p><strong>Application Layer:</strong> Next.js, React, FastAPI, Django, TensorFlow, Scikit-learn, AI orchestration with Vercel</p>
+  <p><strong>Delivery & Observability:</strong> Docker, GitHub Actions, Cloudflare Workers, Sentry, multi-cloud edge networks</p>
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,react,postgres,supabase,vercel,nextjs,fastapi,swift,sklearn,selenium,sentry,tensorflow,wordpress,cloudflare,django,docker,git,github,githubactions,graphql,linux,markdown,pycharm,raspberrypi,redis,rust,vscode,workers)](https://github.com/jreakin)
+
+<p>
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-selected-work.svg" type="image/svg+xml">
+    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-selected-work.png" alt="Selected Work heading" width="360" />
+  </picture>
+</p>
+
+<div style="font-family:'Courier New',monospace;line-height:1.7;">
+  <p>🎯 <strong>Voter Engagement Platform</strong> — real-time phone banking + compliance gating supporting 3M+ voter contacts per cycle. <a href="https://github.com/jreakin/vep-phone-bank-app">Repo</a></p>
+  <p>📊 <strong>Campaign Finance Intelligence</strong> — aggregated FEC intake, anomaly detection, and briefing dashboards. <a href="https://github.com/Abstract-Data/campaignfinance">Organization repo</a></p>
+  <p>🛰️ <strong>Policy Signals Feed</strong> — AI summarization of legislative & sentiment data for rapid response teams. (Internal delivery)</p>
+</div>
+
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/network-graph.svg" type="image/svg+xml">
+    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/network-graph.png" alt="Political technology network graph" width="100%" />
+  </picture>
+</p>
 
 <p>
   <picture>
@@ -101,22 +108,35 @@ Campaign Tech • Data Systems • Voter Engagement • Validation • AI &amp; 
   </picture>
 </p>
 
-<p align="center" style="font-family:'Courier New',monospace;font-size:12px;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 <p>
   <picture>
-    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-currently-building.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-currently-building.png" alt="Currently Building heading" width="360" />
+    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-what-i-build.svg" type="image/svg+xml">
+    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-what-i-build.png" alt="What I Build heading" width="360" />
   </picture>
 </p>
 
-<div style="font-family:'Courier New',monospace;">
-
-- **Microservices for Election Safeguards**: Standards-driven APIs and verification workflows that keep compliance and certification processes transparent and automated
-- **AI-Augmented Campaign Operations**: Decision-support copilots that blend polling, demographic, and voter file signals into actionable messaging and field plans
-- **Immersive Civic Dashboards**: Multi-tenant data experiences that visualize jurisdiction-level readiness, engagement, and funding gaps for leaders and stakeholders
-
-</div>
+<table style="width:100%;font-family:'Courier New',monospace;border-collapse:separate;border-spacing:12px 12px;">
+  <tr>
+    <td style="border:1px solid #BB0000;padding:16px;vertical-align:top;">
+      <strong>Campaign Intelligence Platforms</strong><br />
+      <span style="font-size:13px;">Real-time voter insights, outreach recommendations, and compliance tracking across elections.</span>
+    </td>
+    <td style="border:1px solid #FF3C00;padding:16px;vertical-align:top;">
+      <strong>Data Pipelines & Validation Engines</strong><br />
+      <span style="font-size:13px;">Automated ingestion, normalization, and QA keeping voter files and CRM data audit-ready.</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #00385D;padding:16px;vertical-align:top;">
+      <strong>Engagement & Field Tooling</strong><br />
+      <span style="font-size:13px;">Phone banking, texting, and volunteer coordination that scale nationally yet stay operator-friendly.</span>
+    </td>
+    <td style="border:1px solid #D50032;padding:16px;vertical-align:top;">
+      <strong>Civic Tech Product Foundations</strong><br />
+      <span style="font-size:13px;">Modular architectures, design systems, and delivery playbooks for political tech startups and partners.</span>
+    </td>
+  </tr>
+</table>
 
 <p>
   <picture>
@@ -127,12 +147,27 @@ Campaign Tech • Data Systems • Voter Engagement • Validation • AI &amp; 
 
 <p>
   <picture>
+    <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-beyond-code.svg" type="image/svg+xml">
+    <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-beyond-code.png" alt="Beyond Code heading" width="340" />
+  </picture>
+</p>
+
+<div style="font-family:'Courier New',monospace;line-height:1.7;">
+  <ul style="list-style:none;padding-left:0;">
+    <li>🏟️ Scarlet and gray since birth; still believe this is the Browns’ year.</li>
+    <li>🎧 Curate campaign ops playlists that make data validation slightly more fun.</li>
+    <li>📚 Forever iterating on playbooks for field teams, compliance leads, and analysts.</li>
+  </ul>
+</div>
+
+<p>
+  <picture>
     <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-connect.svg" type="image/svg+xml">
     <img src="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-connect.png" alt="Connect Directly heading" width="340" />
   </picture>
 </p>
 
-[![Website](https://img.shields.io/badge/Website-abstractdata.io-green?style=for-the-badge&logo=vercel)](https://abstractdata.io)
-[![Twitter](https://img.shields.io/badge/@jreakin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jreakin)
-[![Organization](https://img.shields.io/badge/GitHub-abstract--data-black?style=for-the-badge&logo=github)](https://github.com/abstract-data)
+[![Website](https://img.shields.io/badge/abstractdata.io-BB0000?style=for-the-badge&logo=vercel&logoColor=white)](https://abstractdata.io)
+[![Twitter](https://img.shields.io/badge/@jreakin-00385D?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jreakin)
+[![Organization](https://img.shields.io/badge/abstract--data-FF3C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abstract-data)
 

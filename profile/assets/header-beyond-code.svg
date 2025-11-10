@@ -1,0 +1,7 @@
+<svg width="340" height="40" viewBox="0 0 340 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Beyond Code section heading">
+  <text x="0" y="28" font-family="'Courier New', monospace" font-size="20" font-weight="700" letter-spacing="1" fill="#00385D">
+    BEYOND CODE
+    <animate attributeName="fill" values="#00385D;#D50032;#00385D" dur="4s" repeatCount="indefinite" />
+  </text>
+</svg>
+
