@@ -52,6 +52,10 @@
       <strong>Civic Dashboards</strong><br />
       <span style="font-size:13px;">Multi-tenant analytics experiences for leadership readiness and rapid response.</span>
     </td>
+    <td style="background:#11141a;border:1px solid #D50032;padding:16px;vertical-align:top;">
+      <strong>Agentic AI Infrastructure</strong><br />
+      <span style="font-size:13px;">Custom foundation-tuned models with orchestrated backends spanning distributed worker pools, resilient queues, and policy-aware guardrails.</span>
+    </td>
   </tr>
 </table>
 
