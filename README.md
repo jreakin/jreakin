@@ -7,10 +7,6 @@
   </picture>
 </p>
 
-<p align="center" style="font-family:'Courier New',monospace;font-size:16px;font-weight:700;">
-Political Tech Builder · Full-Stack Developer · Ohio State Buckeyes Fan · Cleveland Guardians Believer · Cleveland Browns Believer
-</p>
-
 <p>
   <picture>
     <source srcset="https://raw.githubusercontent.com/jreakin/jreakin/main/profile/assets/header-about.svg" type="image/svg+xml">
